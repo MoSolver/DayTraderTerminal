@@ -1,6 +1,9 @@
-# QUANT TERMINAL
+# Day Trader Terminal
 
 A full-stack quantitative finance information terminal built to exploit the structural edges that large banks and hedge funds miss.
+
+## Running Example
+![alt](https://github.com/MoSolver/DayTraderTerminal/blob/main/img/daytraderterminal.png)
 
 ## Architecture
 
