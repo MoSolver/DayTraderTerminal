@@ -8,6 +8,7 @@ A full-stack quantitative finance information terminal built to exploit the stru
 quant-terminal/
 ├── backend/
 │   └── server.py          # aiohttp REST API + yfinance + BeautifulSoup
+|   └── requirements.txt
 └── frontend/
     ├── public/index.html
     └── src/
@@ -86,7 +87,7 @@ quant-terminal/
 
 ```bash
 # Install dependencies
-pip install aiohttp yfinance beautifulsoup4 pandas numpy requests lxml
+pip install -r requirements.txt
 
 # Start server (port 8080)
 cd backend
