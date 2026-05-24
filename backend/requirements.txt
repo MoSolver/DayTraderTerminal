@@ -1,0 +1,6 @@
+aiohttp
+yfinance
+numpy
+pandas
+bs4
+requests
